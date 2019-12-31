@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{338A85CC-8970-4A1B-B757-3BA59481D643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoom", "ChatRoom\ChatRoom.csproj", "{7DE20C61-8D2B-4376-A662-B29944D87C62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338A85CC-8970-4A1B-B757-3BA59481D643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338A85CC-8970-4A1B-B757-3BA59481D643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338A85CC-8970-4A1B-B757-3BA59481D643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338A85CC-8970-4A1B-B757-3BA59481D643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE20C61-8D2B-4376-A662-B29944D87C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE20C61-8D2B-4376-A662-B29944D87C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE20C61-8D2B-4376-A662-B29944D87C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE20C61-8D2B-4376-A662-B29944D87C62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
